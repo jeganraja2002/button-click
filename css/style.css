@@ -1,0 +1,15 @@
+*{	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Pridi', serif;
+	}
+
+.color-hover{	transition:all 0.3s;}
+
+
+
+.color-hover:active{
+		box-shadow:0px 0px 30px black,0px 0px 60px black;
+		transition:all 0.3s;
+		}
+
